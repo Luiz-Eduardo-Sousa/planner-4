@@ -3,22 +3,19 @@
     "name": "a-empresa",
     "path": "/a-empresa",
     "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\a-empresa.vue",
-    "chunkName": "pages/a-empresa",
-    "_name": "_3f15454c"
+    "chunkName": "pages/a-empresa"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\login.vue",
-    "chunkName": "pages/login",
-    "_name": "_73b89f18"
+    "chunkName": "pages/login"
   },
   {
     "name": "produtos",
     "path": "/produtos",
     "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\produtos\\\\index.vue",
-    "chunkName": "pages/produtos/index",
-    "_name": "_5e510a32"
+    "chunkName": "pages/produtos/index"
   },
   {
     "path": "/servicos",
@@ -29,38 +26,32 @@
         "name": "servicos",
         "path": "",
         "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\servicos\\\\index.vue",
-        "chunkName": "pages/servicos/index",
-        "_name": "_52ac0ca6"
+        "chunkName": "pages/servicos/index"
       },
       {
         "name": "servicos-slug",
         "path": ":slug",
         "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\servicos\\\\_slug.vue",
-        "chunkName": "pages/servicos/_slug",
-        "_name": "_56194f36"
+        "chunkName": "pages/servicos/_slug"
       }
-    ],
-    "_name": "_3571f596"
+    ]
   },
   {
     "name": "produtos-produto-a",
     "path": "/produtos/produto-a",
     "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\produtos\\\\produto-a.vue",
-    "chunkName": "pages/produtos/produto-a",
-    "_name": "_24a270a2"
+    "chunkName": "pages/produtos/produto-a"
   },
   {
     "name": "produtos-produto-b",
     "path": "/produtos/produto-b",
     "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\produtos\\\\produto-b.vue",
-    "chunkName": "pages/produtos/produto-b",
-    "_name": "_24b08823"
+    "chunkName": "pages/produtos/produto-b"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\luiz3\\\\planner-4\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_abde07fe"
+    "chunkName": "pages/index"
   }
 ]
